@@ -16,3 +16,4 @@ This is a basic recipe website.
 - Set up basic HTML page
 - Use Links
 - Use Lists
+- Use images
