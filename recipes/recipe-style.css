@@ -23,3 +23,7 @@ body {
     padding: 12px;
     margin: 0;
 }
+
+.content-container {
+    margin: 0 18px;
+}
