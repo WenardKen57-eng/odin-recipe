@@ -6,14 +6,40 @@ html {
 *::before,
 *::after {
     box-sizing: inherit;
+    padding: 0;
+    margin: 0;
 }
 
 body {
     background-color: #FFEED6;
+    color: #827148;
 }
 
 #title {
     font-family: 'Verdana', 'Arial', 'sans-serif';
+    font-size: 40px;
     text-align: center; 
     color: #827148;
+    background-color: #A5AF79 ;
+    padding: 12px;
+}
+
+#recipe-list-title {
+
+}
+
+.recipe-container {
+    list-style-type: none;
+}
+
+.recipe-container li a {
+    text-decoration: none;
+}
+
+.recipe-container li a:hover {
+    background-color: #E8A07C; 
+}
+
+.recipe-container li {
+    font-size: 24px;
 }
