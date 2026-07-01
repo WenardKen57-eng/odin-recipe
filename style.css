@@ -30,16 +30,22 @@ body {
 
 .recipe-container {
     list-style-type: none;
+    width: 400px;
+    margin: 0 auto;
 }
 
 .recipe-container li a {
     text-decoration: none;
+    color: white;
 }
 
-.recipe-container li a:hover {
+.recipe-container li:hover {
     background-color: #E8A07C; 
 }
 
 .recipe-container li {
+    background-color: #827148;
     font-size: 24px;
+    display: inline-block;
+    padding: 10px;
 }
