@@ -35,6 +35,15 @@ body {
     margin: 0 18px;
 }
 
+.content-container h2 {
+    font-size: 32px;
+}
+
+.content-container p,
+.content-container li {
+    font-size: 24px;
+}
+
 .footer {
     background-color: #A5AF79 ;
     padding: 18px;
