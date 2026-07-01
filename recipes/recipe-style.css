@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #FFEED6;
+    font-family: 'Verdana', 'Arial', 'sans-serif';
+    color: #827148;
+}
+
+
+#recipe-title {
+    color: #827148;
+}
