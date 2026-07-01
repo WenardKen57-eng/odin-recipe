@@ -12,9 +12,14 @@ body {
     background-color: #FFEED6;
     font-family: 'Verdana', 'Arial', 'sans-serif';
     color: #827148;
+    margin: 0;
 }
 
-
 #recipe-title {
+    font-size: 40px;
+    text-align: center; 
     color: #827148;
+    background-color: #A5AF79 ;
+    padding: 12px;
+    margin: 0;
 }
