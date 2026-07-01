@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #FFEED6;
+}
+
+#title {
+    font-family: 'Verdana', 'Arial', 'sans-serif';
+    text-align: center; 
+    color: #827148;
+}
