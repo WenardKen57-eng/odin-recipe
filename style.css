@@ -12,11 +12,11 @@ html {
 
 body {
     background-color: #FFEED6;
+    font-family: 'Verdana', 'Arial', 'sans-serif';
     color: #827148;
 }
 
 #title {
-    font-family: 'Verdana', 'Arial', 'sans-serif';
     font-size: 40px;
     text-align: center; 
     color: #827148;
