@@ -25,27 +25,29 @@ body {
 }
 
 #recipe-list-title {
-
+    margin: 18px 0;
 }
 
 .recipe-container {
-    list-style-type: none;
-    width: 400px;
-    margin: 0 auto;
+    margin: 0 18px;
 }
 
-.recipe-container li a {
+.recipe-list-container {
+    list-style-type: none;
+}
+
+.recipe-list-container li a {
     text-decoration: none;
     color: white;
 }
 
-.recipe-container li:hover {
+.recipe-list-container li:hover {
     background-color: #E8A07C; 
 }
 
-.recipe-container li {
+.recipe-list-container li {
     background-color: #827148;
     font-size: 24px;
-    display: inline-block;
     padding: 10px;
+    margin-bottom: 18px;
 }
