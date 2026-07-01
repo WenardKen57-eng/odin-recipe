@@ -19,9 +19,16 @@ body {
     font-size: 40px;
     text-align: center; 
     color: #827148;
-    background-color: #A5AF79 ;
+    background-color: #A5AF79;
     padding: 12px;
     margin: 0;
+}
+
+#recipe-image {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 18px auto;
 }
 
 .content-container {
